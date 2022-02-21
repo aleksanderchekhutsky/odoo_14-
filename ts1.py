@@ -236,7 +236,8 @@ while app_running:
         for id_fig in fig: game_sc.delete(id_fig)
         for id_fig in fig2: sc.delete(id_fig)
     time.sleep(0.005)
-#for commit 
+# test test
+
 
 tk.destroy()
 #tk.mainloop()
